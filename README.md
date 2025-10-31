@@ -1,3 +1,5 @@
+#
+
 ![499531787-3cc6c3dd-1b88-48bd-9b84-af7f29ff16ea](https://github.com/user-attachments/assets/313eda8b-36c9-44d0-aec7-4ec31cf22af2)
 
 ## 👻 Caça aos Bugs 2025 - Desafio 01 - Spore
@@ -24,8 +26,8 @@ Neste processo eu aprendi:
 * [X] Configurar as variáveis de ambiente
 * [X] Criar uma Migration usando Entity Framework
 * [X] Gerar o banco de dados
-* [ ] Executar a aplicação
-* [ ] Testar a aplicação
+* [X] Executar a aplicação
+* [X] Testar a aplicação
 
 ## Sobre o Caça aos Bugs
 
