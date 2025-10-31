@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:balta-desafio-caca-aos-bugs-2025_1-spore}/src/app.db",
+            "name": "Data Source=app.db"
+        }
+    ]
+}

@@ -22,8 +22,8 @@ Neste processo eu aprendi:
 * [X] Instalar o .NET 9
 * [X] Instalar o Visual Studio Code, Visual Studio ou Rider
 * [X] Configurar as variáveis de ambiente
-* [ ] Criar uma Migration usando Entity Framework
-* [ ] Gerar o banco de dados
+* [X] Criar uma Migration usando Entity Framework
+* [X] Gerar o banco de dados
 * [ ] Executar a aplicação
 * [ ] Testar a aplicação
 
